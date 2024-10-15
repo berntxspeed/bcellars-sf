@@ -4,6 +4,8 @@ public with sharing class DemoController {
      */
     public DemoController() {}
 
+    // test commit 
+
     /**
      * Set the contact for the page using the lastName parameter, if there is one
      */
